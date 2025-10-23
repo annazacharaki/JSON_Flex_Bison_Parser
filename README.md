@@ -6,7 +6,7 @@ This repository contains a **lexical and syntactic analyzer** implemented using 
 
 ---
 
-## 🎯 Project Overview
+## Project Overview
 
 The goal of this exercise was to familiarize students with **language description in BNF**, as well as the fundamentals of compiler construction. Specifically, it involves creating:
 
@@ -19,7 +19,7 @@ The implemented parser validates Java-like source code structures and outputs pa
 ---
 
 
-## 🧩 Grammar Features
+## Grammar Features
 
 The grammar supports the recognition of key programming constructs such as:
 
@@ -44,7 +44,7 @@ public class Example {
 ```
 
 
-## 🧠 How It Works
+##  How It Works
 
 1. **Lexical Analysis (Flex)**
    The lexer identifies tokens such as keywords (`class`, `public`, `int`), identifiers, literals, and punctuation symbols.
@@ -59,7 +59,7 @@ public class Example {
 
 ---
 
-## 🧰 Compilation & Execution
+##  Compilation & Execution
 
 Run the following commands in your terminal:
 
@@ -89,7 +89,7 @@ Syntax error near token: ...
 
 ---
 
-## 🔍 Test Input Example
+##  Test Input Example
 
 **File:** `test1ARXES.txt`
 
@@ -109,7 +109,7 @@ public class Example {
 
 ---
 
-## 👩‍💻 Authors
+##  Authors
 
 **annazacharaki**,
 **evelinastavropoulou**,
