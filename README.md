@@ -105,7 +105,7 @@ public class Example {
 }
 ```
 
-✅ **Expected Output:** Parsing successful.
+ **Expected Output:** Parsing successful.
 
 ---
 
@@ -118,7 +118,7 @@ University of Patras, Greece
 
 ---
 
-## 📜 License
+## License
 
 This project was created for educational purposes as part of the *Programming Languages and Compilers* laboratory exercise.
 All code and grammar files are open-source for academic use and learning.
